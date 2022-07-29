@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Converse",
+    "price": 10.99,
+    "imgUrl": "../public/i"
+  },
+  {
+    "id": 2,
+    "name": "New Balance",
+    "price": 10.99,
+    "imgUrl": "../public/"
+  },
+  {
+    "id": 3,
+    "name": "New Balance",
+    "price": 10.99,
+    "imgUrl": "../public/"
+  },
+  {
+    "id": 4,
+    "name": "New Balance",
+    "price": 10.99,
+    "imgUrl": "../public/"
+  },
+  {
+    "id": 5,
+    "name": "Valentino",
+    "price": 99.99,
+    "imgUrl": "../public/"
+  },
+  {
+    "id": 6,
+    "name": "Vans",
+    "price": 20.99,
+    "imgUrl": "../public/"
+  }
+
+]
